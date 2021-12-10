@@ -6,7 +6,7 @@ import cv2 as cv2
 #ap = argparse.ArgumentParser()
 #ap.add_argument('-i', '--image', required=True, help="Image Path")
 #args = vars(ap.parse_args())
-img_path = 'colorpic.jpg'
+img_path = 'colorpic,jpg.jpg'
 
 # Reading the image with OpenCV
 img = cv2.imread(img_path)
